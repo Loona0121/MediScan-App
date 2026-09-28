@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mediscan.app",
+    "sha256_cert_fingerprints": [
+      "69:EC:4A:1D:F1:4D:C2:E5:04:1A:40:3F:AD:29:A2:E0:05:A2:E0:4D:B3:26:AE:02:67:1C:23:9D:D4:79:7B:16"
+    ]
+  }
+}]

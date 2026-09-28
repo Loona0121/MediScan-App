@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+ios/
+android/
+windows/
+linux/
+macos/
+test/
+.git/
+.env*
+*.log
